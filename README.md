@@ -18,3 +18,11 @@ At the end of each show, a presentation was made to tickle students intrest in h
 [rtl sdr](https://www.passion-radio.fr/cles-rtl-sdr/87) / same as above, just less powerful and worse accuracy but very cheap and great for it's price, you can buy it on aliexpress for roughly 20/30$  
 [gnu radio](https://www.gnuradio.org/) software useful to manage the 3 tool mentionned above  
 [flipper zero](https://flipperzero.one/) / hacking tamagotchi, look for videos on twitter of people using it, very funny but quite expensive (was ~100$ in the kickstarter, now 170$ and out of stock)
+
+## Session 2: Phishing et Social Engineering
+
+[Gophish](https://getgophish.com/) / Gophish framework to create phishing campaigns.
+[EvilGinx2](https://github.com/kgretzky/evilginx2) / Custom version of nginx HTTP server to perform mitm attacks
+[mailgun](https://www.mailgun.com/) / API to get SMTP running and send mass emails
+[blackphish](https://github.com/thewickedkarma/blackeye-im) / Tool to perform simple spear-phishing
+[tuto campagne phishing](https://sidb.in/posts/phishing-101/) / Full tuto on how to build and launch a phishing campaign (using gophish, mailgun, evilginx stack)
