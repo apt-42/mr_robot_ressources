@@ -21,8 +21,8 @@ At the end of each show, a presentation was made to tickle students intrest in h
 
 ## Session 2: Phishing et Social Engineering
 
-[Gophish](https://getgophish.com/) / Gophish framework to create phishing campaigns.
-[EvilGinx2](https://github.com/kgretzky/evilginx2) / Custom version of nginx HTTP server to perform mitm attacks
-[mailgun](https://www.mailgun.com/) / API to get SMTP running and send mass emails
-[blackphish](https://github.com/thewickedkarma/blackeye-im) / Tool to perform simple spear-phishing
-[tuto campagne phishing](https://sidb.in/posts/phishing-101/) / Full tuto on how to build and launch a phishing campaign (using gophish, mailgun, evilginx stack)
+[Gophish](https://getgophish.com/) / Gophish framework to create phishing campaigns.  
+[EvilGinx2](https://github.com/kgretzky/evilginx2) / Custom version of nginx HTTP server to perform mitm attacks  
+[mailgun](https://www.mailgun.com/) / API to get SMTP running and send mass emails  
+[blackphish](https://github.com/thewickedkarma/blackeye-im) / Tool to perform simple spear-phishing  
+[tuto campagne phishing](https://sidb.in/posts/phishing-101/) / Full tuto on how to build and launch a phishing campaign (using gophish, mailgun, evilginx stack)  
